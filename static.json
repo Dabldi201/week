@@ -2,7 +2,7 @@
     "hraders": {
         "/*" 
         {
-        "X-Author": "dabldi"
+        "X-Author": "dabldi" ,
         "Access-Control-Allow-Origin": "*"
         }
     }
