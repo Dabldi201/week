@@ -4,7 +4,7 @@
              "/*": 
              {
               "X-Author": "dabldi",
-                 "Access-Control-Allow-Origin": "*"
+              "Access-Control-Allow-Origin": "*"
              }
         }  
 }
