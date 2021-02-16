@@ -1,7 +1,9 @@
 {
-    "hraders": {
-        "/*" {
-        "X-Author": "dabldi"
-        }
-    }
+    "headers": 
+        {
+             "/*": 
+             {
+              "X-Author": "dabldi"
+             }
+        }  
 }
