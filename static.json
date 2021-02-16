@@ -1,10 +1,9 @@
 {
-    "headers": 
+    "headers":
+    {
+        "/*":
         {
-             "/*": 
-             {
-              "X-Author": "dabldi"
-              "Access-Control-Allow-Origin" "*"
-             }
-        }  
+            "X-Author": "dabldi" , "Access-Control-Allow-Origin" "*"
+        }
+    }
 }
